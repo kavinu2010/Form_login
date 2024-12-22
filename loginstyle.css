@@ -59,7 +59,16 @@ input {
 .input {
   height: 50px;
   width: 300px;
-  border-radius: 15px;
+  border-radius: 5px;
   border: 1px solid black;
-  margin: 15px 0;
+  margin: 15px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
 }
